@@ -1,0 +1,15 @@
+Cloud Pak Components:
+-> BAI
+-> BAW
+-> FileNet
+-> Datacap
+-> ODM
+-> IBM Cloud
+******************
+-> ROKS
+-> Linux
+-> Kubernetes
+-> Docker
+-> Kibana
+-> RPA
+-
